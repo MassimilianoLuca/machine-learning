@@ -1,4 +1,4 @@
-# Second Project: Bayesian Network using Hugin
+# Second Project: SVM - spam classifier
 **Mark (PASS / NOPASS) -> PASS**
 More info about the dataset can be found in the file *data_description.txt*. Given this dataset:
 * Experiment with a classification algorithm of your choosing;
